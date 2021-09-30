@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarceloAlvesVicente
 - 👀 I’m interested in Js, HTML and CSS - frontends technologies
-- 🌱 I’m currently learning I'm currently learning Javascript
+- 🌱 I'm currently learning Javascript
 - 💞️ I will soon be collaborating on frontend projects
 - 📫 How to contact me:
 mvicente.us@gmail.com
