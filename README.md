@@ -3,9 +3,9 @@
 - 🌱 I'm currently learning Javascript
 - 💞️ I will soon be collaborating on frontend projects
 - 📫 How to contact me:
-mvicente.us@gmail.com + "<br/>"
-https://twitter.com/MvicenteUs + "<br/>"
-https://www.linkedin.com/in/marcelo-alves-vicente + "<br/>"
+mvicente.us@gmail.com + <br/>
+https://twitter.com/MvicenteUs + <br/>
+https://www.linkedin.com/in/marcelo-alves-vicente + <br/>
 You can call me on GitHub too
 
 <!---
