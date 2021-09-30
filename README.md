@@ -4,6 +4,8 @@
 - 💞️ I will soon be collaborating on frontend projects
 - 📫 How to contact me:
 mvicente.us@gmail.com
+https://twitter.com/MvicenteUs
+https://www.linkedin.com/in/marcelo-alves-vicente
 You can call me on GitHub too
 
 <!---
