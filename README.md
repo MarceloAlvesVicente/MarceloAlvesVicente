@@ -5,7 +5,7 @@
 - 📫 How to contact me:
 mvicente.us@gmail.com + <br/>
 https://twitter.com/MvicenteUs + <br/>
-https://www.linkedin.com/in/marcelo-alves-vicente + <br/>
+https://www.linkedin.com/in/marcelo-alves-vicente-08144817a/ + <br/>
 You can call me on GitHub too
 
 <!---
