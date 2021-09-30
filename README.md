@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @MarceloAlvesVicente
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Js, HTML and CSS - frontends technologies
+- 🌱 I’m currently learning I'm currently learning Javascript
+- 💞️ I will soon be collaborating on frontend projects
+- 📫 How to contact me:
+mvicente.us@gmail.com
+You can call me on GitHub too
 
 <!---
 MarceloAlvesVicente/MarceloAlvesVicente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
