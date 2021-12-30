@@ -6,7 +6,6 @@
 mvicente.us@gmail.com + <br/>
 https://twitter.com/MvicenteUs + <br/>
 https://www.linkedin.com/in/marcelo-alves-vicente-08144817a/ + <br/>
-You can call me on GitHub too
 
 <!---
 MarceloAlvesVicente/MarceloAlvesVicente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
